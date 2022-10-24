@@ -1,0 +1,14 @@
+.footer {
+  background-color: lightgreen;
+  min-height: 70px;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+}
+
+.footer__h {
+  font-weight: 200;
+  display: flex;
+}
